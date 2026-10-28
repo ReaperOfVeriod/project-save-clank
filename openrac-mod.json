@@ -1,0 +1,12 @@
+{
+  "format": 2,
+  "id": "project-save-clank",
+  "name": "Project Save Clank",
+  "version": "0.1.0",
+  "author": "",
+  "description": "Optional warm, same-process savestate mod for Ratchet & Clank 1 PAL and NTSC.",
+  "license": "MIT",
+  "api": "1.5",
+  "games": { "rac1": ["pal", "ntsc"] },
+  "hooks": []
+}
