@@ -37,7 +37,4 @@ The ready-to-install package is written to
 `build/package/project_save_clank/`. Install that folder in the launcher's Mods
 tab (or package it with the SDK's `tools/package_mod.py`).
 
-## Legacy prototype
 
-`legacy-script/` preserves the earlier script-only experiment, which saved only
-Ratchet's position, facing and bolt count. It is not part of this native mod.
